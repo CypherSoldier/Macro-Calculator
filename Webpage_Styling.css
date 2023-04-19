@@ -1,0 +1,121 @@
+body {
+  font-family: Verdana, sans-serif;
+  background: white;
+}
+
+li {
+display: inline;
+}
+
+#navbar {
+display: flex;
+justify-content: space-around;
+}
+
+#navbar a {
+padding: 10px 30px; 
+color: dimgray;
+text-decoration: none; 
+cursor: pointer; 
+}
+
+header {
+position: fixed; /* nav-bar should always be at the top of the viewport */
+width: 100%;
+top: 0;
+left: 0;
+background-color: white;
+}
+
+#navbar a:hover {
+color: black;
+}
+
+#calculator {
+  background: #6e8ec9;
+  padding-bottom: 40px;
+  min-height: 720px;
+}
+
+.button {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.page-title {
+  text-align: center;
+  color: white;
+  padding-top: 80px;
+  font-size: 50px;
+}
+
+.page-subtitle {
+  text-align: center;
+  font-size: 15px;
+  padding-bottom: 40px;
+}
+
+.page-form {
+  margin: auto;
+  background-color: #d2e2fb;
+  border-radius: 10px;
+  width: 720px;
+  padding: 20px;
+}
+
+h6 {
+  text-align: center;
+  font-size: large;
+}
+
+.button {
+  background-color: white;
+  border-color: grey;
+  width: 175px;
+  font-family: Verdana;
+  font-size: 20px;
+}  /* adjust */
+
+.button-next {
+  border-radius: 5px;
+  background-color: royalblue;
+  border-color: grey;
+  width: 200px;
+  height: 40px;
+  font-family: Verdana;
+  font-size: 20px;
+color: white;
+}
+
+.button:focus {
+background: dodgerblue;
+border-color: white;
+color: white;
+}
+
+.radio-form-item {
+  margin: auto;
+  padding:2rem;
+  display: inline-block;
+  padding-left: 110px;
+}
+
+.radio-form-item-1 {
+text-align: center;
+padding-top: 40px;
+}
+
+.label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+input {
+  width: 100%;
+  min-height: 5em;
+}
+
+#height {
+color: red;
+}
