@@ -10,4 +10,4 @@ Uses your gender, height, weight, age, and exercise frequency to calculate requi
 </div>
 
 ## Preview
-<img src="https://github.com/CypherSoldier/Random-Quote-Generator/assets/107351021/1b6dc5b2-d656-429b-aaa2-aa729bf80d37">
+<img src="https://github.com/CypherSoldier/Macro-Calculator/assets/107351021/05d4be57-0634-454d-9a19-f3db7957f7d9">
