@@ -1,0 +1,57 @@
+li {
+    display: inline;
+}
+    
+#navbar {
+    display: flex;
+    justify-content: space-around;
+}
+    
+#navbar a {
+    padding: 10px 30px; 
+    color: dimgray;
+    text-decoration: none; 
+    cursor: pointer; 
+}
+    
+header {
+    position: fixed; /* nav-bar should always be at the top of the viewport */
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: white;
+}
+    
+#navbar a:hover {
+    color: black;
+}
+
+#calculator {
+    background: #6e8ec9;
+    padding-bottom: 40px;
+    min-height: 720px;
+}
+  
+.page-title {
+    text-align: center;
+    color: white;
+    padding-top: 80px;
+    font-size: 50px;
+}
+  
+.page-subtitle {
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 40px;
+}
+
+.button-next {
+    border-radius: 5px;
+    background-color: royalblue;
+    border-color: grey;
+    width: 200px;
+    height: 40px;
+    font-family: Verdana;
+    font-size: 20px;
+    color: white;
+}

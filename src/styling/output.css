@@ -1,0 +1,45 @@
+h6 {
+    text-align: center;
+    font-size: large;
+}
+
+#protein, #calorie {
+    color: blue;
+    font-size: 50px;
+}
+
+.results {
+    padding-top: 10px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background: lemonchiffon;
+    width: 400px;
+    height: 200px;
+}
+
+.results0 {
+    padding-top: 10px;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: pink;
+    width: 400px;
+    height: 200px;
+}
+
+.output {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.third-page-form {
+    margin: auto;
+    background-color: #d2e2fb;
+    border-radius: 10px;
+    width: 720px;
+    height: 600px;
+    padding: 20px;
+}

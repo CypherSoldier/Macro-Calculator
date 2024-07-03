@@ -1,0 +1,42 @@
+.second-page-form {
+    margin: auto;
+    background-color: #d2e2fb;
+    border-radius: 10px;
+    width: 720px;
+    padding: 20px;
+}
+
+.options {
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.details {
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+}
+        
+.sub-details {
+    font-size: 16px;
+    left: 0;
+}
+  
+.amount {
+    margin: 10px 0 0 0;
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    width: 70%;
+}
+
+.amount.selected {
+    background: dodgerblue;
+    border-color: white;
+    color: white;
+}
+
+.radio-form-item-1 {
+    text-align: center;
+    padding-top: 40px;
+}

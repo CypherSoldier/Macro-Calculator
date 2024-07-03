@@ -1,0 +1,62 @@
+.radio-form-item-1 {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.button {
+    background-color: white;
+    border-color: grey;
+    width: 175px;
+    font-family: Verdana;
+    font-size: 20px;
+}  /* adjust */
+
+input {
+    width: 100%;
+    min-height: 5em;
+}
+  
+.button-next {
+    border-radius: 5px;
+    background-color: royalblue;
+    border-color: grey;
+    width: 200px;
+    height: 40px;
+    font-family: Verdana;
+    font-size: 20px;
+    color: white;
+}
+
+.bubble {
+    background: white;
+    color: black;
+    padding: 5px;
+    border-radius: 4px;
+}
+    
+.input-form-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-form {
+    margin: auto;
+    background-color: #d2e2fb;
+    border-radius: 10px;
+    width: 720px;
+    padding: 20px;
+}
+
+.radio-form-item {
+    margin: auto;
+    padding:2rem;
+    display: inline-block;
+    padding-left: 110px; /*there is another way to space the two items evenly automatically, similar to text-align:center >> flexbox; */
+}
+
+.button.selected, .amount.selected {
+    background: dodgerblue;
+    border-color: white;
+    color: white;
+}
+    
