@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CypherSoldier/Macro-Calculator/static/css/main.7d95fa06.css",
+    "main.js": "/CypherSoldier/Macro-Calculator/static/js/main.e796075b.js",
+    "static/js/453.791de5a2.chunk.js": "/CypherSoldier/Macro-Calculator/static/js/453.791de5a2.chunk.js",
+    "index.html": "/CypherSoldier/Macro-Calculator/index.html",
+    "main.7d95fa06.css.map": "/CypherSoldier/Macro-Calculator/static/css/main.7d95fa06.css.map",
+    "main.e796075b.js.map": "/CypherSoldier/Macro-Calculator/static/js/main.e796075b.js.map",
+    "453.791de5a2.chunk.js.map": "/CypherSoldier/Macro-Calculator/static/js/453.791de5a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d95fa06.css",
+    "static/js/main.e796075b.js"
+  ]
+}
