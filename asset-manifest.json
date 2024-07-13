@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CypherSoldier/Macro-Calculator/static/css/main.057f5d1e.css",
-    "main.js": "/CypherSoldier/Macro-Calculator/static/js/main.29ab615c.js",
-    "static/js/453.791de5a2.chunk.js": "/CypherSoldier/Macro-Calculator/static/js/453.791de5a2.chunk.js",
-    "index.html": "/CypherSoldier/Macro-Calculator/index.html",
-    "main.057f5d1e.css.map": "/CypherSoldier/Macro-Calculator/static/css/main.057f5d1e.css.map",
-    "main.29ab615c.js.map": "/CypherSoldier/Macro-Calculator/static/js/main.29ab615c.js.map",
-    "453.791de5a2.chunk.js.map": "/CypherSoldier/Macro-Calculator/static/js/453.791de5a2.chunk.js.map"
+    "main.css": "/Macro-Calculator/static/css/main.057f5d1e.css",
+    "main.js": "/Macro-Calculator/static/js/main.12b37465.js",
+    "static/js/453.791de5a2.chunk.js": "/Macro-Calculator/static/js/453.791de5a2.chunk.js",
+    "index.html": "/Macro-Calculator/index.html",
+    "main.057f5d1e.css.map": "/Macro-Calculator/static/css/main.057f5d1e.css.map",
+    "main.12b37465.js.map": "/Macro-Calculator/static/js/main.12b37465.js.map",
+    "453.791de5a2.chunk.js.map": "/Macro-Calculator/static/js/453.791de5a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.057f5d1e.css",
-    "static/js/main.29ab615c.js"
+    "static/js/main.12b37465.js"
   ]
 }
