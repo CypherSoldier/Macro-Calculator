@@ -23,7 +23,7 @@ function FixedDashBoard() {
             </header>
             <div className="page-title">Macro Calculator</div>
             <div className="page-subtitle">based on the Harris Benedict Formula</div>
-            <div id="calculator">
+            <div className="calculator">
                 <InputInfo setUserInfo={setUserInfo} />
                 <ActivityLevel userInfo={userInfo} setResults={setResults} />
                 <ProteinCalories results={results} />
