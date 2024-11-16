@@ -11,4 +11,3 @@ Calculate your targeted calorie and protein intake to build muscle based on any 
 
 ## Preview
 <img src="https://github.com/user-attachments/assets/334e880c-320a-4aab-ba95-479b72ef884c">
-<img src="https://github.com/CypherSoldier/Fitness-Workout-App/assets/107351021/2acf0688-9456-4306-bf1b-bad3e184dd69">
